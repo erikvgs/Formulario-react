@@ -10,7 +10,7 @@
 <b><h2>Pré-requisitos</h2></b>
 <br>•	Node<br>
 <br>•	npm<br>
-<br>•	back-end feito em Java Script<br> 
+<br>•	Visual Studio Code <br> 
 
 
 <b><h2>Para rodar este projeto</h2></b>
